@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+
+# Data and logs
+data/
+*.log
+qdrant_local/
+qdrant_data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
